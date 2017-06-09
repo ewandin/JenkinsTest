@@ -5,6 +5,4 @@ echo "end here"
 echo "hello, this is a update version"
 date
 date
-echo "today is Friday"
-df -h
 
