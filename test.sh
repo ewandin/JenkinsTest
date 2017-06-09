@@ -6,5 +6,6 @@ echo "hello, this is a update version"
 date
 hello
 hello
+hello
 pwd
 df -h
