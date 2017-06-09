@@ -7,5 +7,4 @@ date
 hello
 hello
 pwd
-date
 df -h
